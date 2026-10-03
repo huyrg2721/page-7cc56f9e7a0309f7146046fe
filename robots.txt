@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-22f86e73d1.huizetx.cn/sitemap.xml
